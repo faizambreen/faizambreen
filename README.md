@@ -6,4 +6,4 @@
 
 Feel free to explore my repositories and projects. I'm always open to collaborating and contributing to exciting new ventures.
 
-[![Email Me](https://img.shields.io/badge/Gmail-c1665b?logo=gmail)](mailto:hafiz9oman.dev@gmail.com)     [![WhatsApp](https://img.shields.io/badge/WhatsApp-grey?logo=whatsapp)](https://wa.me/923484195196)     [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://linkedin.com/in/hafiz-nouman)     [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/hafiz9ouman)
+[![Email Me](https://img.shields.io/badge/Gmail-c1665b?logo=gmail)](mailto:faizaambreen.dev@gmail.com)    [![LinkedIn](https://img.shields.io/badge/Linkedin-blue?logo=linkedin)](https://www.linkedin.com/in/faiza-ambreen-dev/)     [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/faizambreen)
